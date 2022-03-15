@@ -1,7 +1,6 @@
 # Computational-Intelligence-Laboratory
 ![](https://raw.githubusercontent.com/j82887/Computational-Intelligence-Laboratory/main/Image/%E6%99%BA%E6%85%A7%E8%A8%88%E7%AE%97%E5%AF%A6%E9%A9%97.jpg)
 
-
 ## 課程大綱
 | 週 | 日期 | 課程內容 | 備註 | 作業 |
 | :----: | :----: | :---- | :---- | :---- | 
